@@ -1,6 +1,5 @@
 # Stock-Price-Prediction-using-Multiple-Machine-Learning-Models
 
-Sure! Here's the README.md template again for you to copy-paste and modify as needed:
 
 ---
 
@@ -117,4 +116,3 @@ This will plot the actual vs predicted stock prices for each model.
 This project provides a baseline for stock price prediction using machine learning models. The comparison of multiple models gives valuable insights into which approaches work best for predicting stock prices based on historical data, technical indicators, and sentiment analysis. 
 
 ---
-
