@@ -111,15 +111,6 @@ This will plot the actual vs predicted stock prices for each model.
 
 ---
 
-## **Future Improvements**
-
-- **Model Hyperparameter Tuning**: Perform hyperparameter tuning to optimize the models further.
-- **Real-Time Data**: Integrate with a real-time data API for live stock price prediction.
-- **Advanced Sentiment Analysis**: Replace the dummy sentiment scores with actual news headlines using a news API.
-- **Cross-Validation**: Implement cross-validation to ensure model generalization.
-- **Deployment**: Deploy the final model using **Streamlit** or **Flask** for real-time predictions.
-
----
 
 ## **Conclusion**
 
